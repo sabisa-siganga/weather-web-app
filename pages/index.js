@@ -34,6 +34,8 @@ const fetchWeather = (e) => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
+<div className="absolute top-0 left-0"/>
      
       <Image 
        src="https://images.unsplash.com/photo-1564296592999-a1614681006b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjEyfHx3ZWF0aGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
